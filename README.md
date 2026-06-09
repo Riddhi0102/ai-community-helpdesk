@@ -91,8 +91,3 @@ Implementation is planned as a future development phase.
 * Technical Documentation
 * Testing Strategy Design
 
-## Author
-
-Riddhi Sharma
-
-Electronics & Communication Engineering Student | NCC Cadet | Aspiring Software Engineer
